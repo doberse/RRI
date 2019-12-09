@@ -1,4 +1,4 @@
-#README
+README
 
 This readme is a guideline for the network analysis in Zhu et al.: Network characteristics of human RNA-RNA interactions and application in finding key RNAs of breast cancer
 
@@ -6,7 +6,6 @@ Dependencies on Python v3.6.5 packages:
 
 - pandas v0.23.0
 - numpy v1.14.3
-
 - networkx v2.1
 
 Functions of scripts:
